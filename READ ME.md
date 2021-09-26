@@ -29,7 +29,7 @@ An added info page
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/emeGWLe.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/emeGWLe.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
