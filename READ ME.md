@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *kefan_prework*
 
 **kefan_prework** is a tip calculator application for iOS.
 
